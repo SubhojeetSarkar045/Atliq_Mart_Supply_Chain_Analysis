@@ -68,8 +68,10 @@ Dataset inspired by **Codebasics Resume Challenge #2** — FMCG Supply Chain.
   * `customer_id` → links customer & target tables
   * `product_id` → links product details
   * `date` → links with fact tables for trend analysis
+
  
 ![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/50271410ed1823c8eaff0d402ad3dbeb96765fc2/powerbi/screenshot/Model%20View.png)
+
 
 ## 📐 Key Measures (DAX & SQL)
 
@@ -111,6 +113,17 @@ For detailed SQL queries → [SQL Folder](./sql)
 * Product Insights: Top delayed & delivered SKUs
 * Customer Performance: Service levels vs. target
 * City Comparison: OTIF%, OT%, IF% across Surat, Vadodara, and Ahmedabad
+
+
+![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/da15e4753e8403bf5513ac3f42b4d55fd7380c07/powerbi/screenshot/Home.png)
+
+![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/da15e4753e8403bf5513ac3f42b4d55fd7380c07/powerbi/screenshot/Overview.png)
+
+![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/da15e4753e8403bf5513ac3f42b4d55fd7380c07/powerbi/screenshot/Overview%20(Slicer).png)
+
+![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/da15e4753e8403bf5513ac3f42b4d55fd7380c07/powerbi/screenshot/Order%20Level.png)
+
+![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/da15e4753e8403bf5513ac3f42b4d55fd7380c07/powerbi/screenshot/Line%20Level.png)
 
 ---
 
