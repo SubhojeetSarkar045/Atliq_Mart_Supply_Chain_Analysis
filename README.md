@@ -69,9 +69,7 @@ Dataset inspired by **Codebasics Resume Challenge #2** — FMCG Supply Chain.
   * `product_id` → links product details
   * `date` → links with fact tables for trend analysis
  
-[](images/https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/main/powerbi/screenshot/ModelView.png)
-
----
+![image alt](https://github.com/SubhojeetSarkar045/Atliq_Mart_Supply_Chain_Analysis/blob/50271410ed1823c8eaff0d402ad3dbeb96765fc2/powerbi/screenshot/Model%20View.png)
 
 ## 📐 Key Measures (DAX & SQL)
 
