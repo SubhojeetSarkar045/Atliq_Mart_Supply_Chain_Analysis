@@ -21,7 +21,7 @@ Develop a **data-driven dashboard** to:
 
 ## 🧠 Problem Statement
 
-> “How efficiently is AtliQ Mart managing its supply chain — are orders being delivered on time, in full, and as per customer expectations?”
+> “How efficiently is AtliQ Mart managing its supply chain, are orders being delivered on time, in full, and as per customer expectations?”
 
 The key challenge is to measure and monitor:
 
