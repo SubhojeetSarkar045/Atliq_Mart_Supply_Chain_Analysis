@@ -187,4 +187,4 @@ All data used here is **mock data from Codebasics** and does not represent any r
 
 ---
 
-### 💬 “Analytics is not just about dashboards — it’s about driving better business decisions.”
+### 💬 “Analytics is not just about dashboards, it’s about driving better business decisions.”
